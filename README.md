@@ -6,7 +6,7 @@ You have a stick of arbitrary length. You break the stick uniformly at random al
 #### Solution:
 
 
-To bound the problem, let's our length of the stick has some unit length 1. Now breaking the stick uninformly at random along it's length at 2 places leaves us with 3 pieces. Because we have unit length of 1, only 2 variables x and z are fully specifying the lenghts of the deduced pieces. 1st piece of length x and second piece of length z and the third piece of length 1-x-z
+To bound the problem, let's our length of the stick has some unit length 1. Now breaking the stick uninformly at random along it's length at 2 places leaves us with 3 pieces. Because we have unit length of 1, only 2 variables x and y are fully specifying the lenghts of the deduced pieces. 1st piece of length x and second piece of length y and the third piece of length 1-x-y
 
 ##### Condition 1: <br>
     x < y + (1-x-y)
